@@ -37,3 +37,21 @@
     "typescript": "^5.1.6"
   },
 ```
+
+2. prisma のインストール
+
+```
+npm i -D prisma
+npm install @prisma/client
+```
+
+```
+"dependencies": {
+    ~,
+    "@prisma/client": "^5.10.2",
+  },
+  "devDependencies": {
+    ~,
+    "prisma": "^5.10.2",
+  },
+```
